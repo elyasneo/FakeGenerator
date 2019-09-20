@@ -1,0 +1,18 @@
+{
+    "podcasts":[
+        {
+            "id":1,
+            "name":"پادکست شماره 1",
+            "source":"someString",
+            "descriptionFa":"توضیحات فارسی",
+            "descriptionEn":"english description"
+        },
+        {
+            "id":2,
+            "name":"پادکست شماره 2",
+            "source":"someString",
+            "descriptionFa":"توضیحات فارسی",
+            "descriptionEn":"english description"
+        }
+    ]
+}
