@@ -86,41 +86,6 @@
             "name": "پادکست زبان فرانسوی",
             "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله",
-            "podcastItems": [{
-                    "id": 11,
-                    "name": "پادکست شماره 1",
-                    "source": "https://dl.zabanmaster.com/Download/Audio/Podcast/Podcast1.mp3",
-                    "descriptionFa": "توضیحات فارسی",
-                    "descriptionEn": "English Description"
-                },
-                {
-                    "id": 12,
-                    "name": "پادکست شماره 1",
-                    "source": "https://dl.zabanmaster.com/Download/Audio/Podcast/Podcast1.mp3",
-                    "descriptionFa": "توضیحات فارسی",
-                    "descriptionEn": "English Description"
-                },
-                {
-                    "id": 13,
-                    "name": "پادکست شماره 1",
-                    "source": "https://dl.zabanmaster.com/Download/Audio/Podcast/Podcast1.mp3",
-                    "descriptionFa": "توضیحات فارسی",
-                    "descriptionEn": "English Description"
-                },
-                {
-                    "id": 14,
-                    "name": "پادکست شماره 1",
-                    "source": "https://dl.zabanmaster.com/Download/Audio/Podcast/Podcast1.mp3",
-                    "descriptionFa": "توضیحات فارسی",
-                    "descriptionEn": "English Description"
-                }, {
-                    "id": 15,
-                    "name": "پادکست شماره 1",
-                    "source": "https://dl.zabanmaster.com/Download/Audio/Podcast/Podcast1.mp3",
-                    "descriptionFa": "توضیحات فارسی",
-                    "descriptionEn": "English Description"
-                }
-            ]
         }
     ]
 }
